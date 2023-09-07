@@ -20,5 +20,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/matheus_ginel/)
 [![Facebook](https://img.shields.io/badge/Facebook-000?style=for-the-badge&logo=facebook)](https://www.facebook.com/matheus.azevedoneves/)
 
-  ![Snake animation](https://github.com/MatheusGinel/MatheusGinel/blob/output/github-contribution-grid-snake.svg)
+
+![Snake animation](https://github.com/MatheusGinel/blob/output/github-contribution-grid-snake.svg)
 
