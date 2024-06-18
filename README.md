@@ -11,7 +11,8 @@
   <img align="center" alt="Matt-PHP" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Matt-Laravel" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">          
   <img align="center" alt="Matt-Dart" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
-  <img align="center" alt="Matt-Dart" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
+  <img align="center" alt="Matt-Flutter" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
+  <img align="center" alt="Matt-Godot" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg">
   <img align="center" alt="Matt-JavaScript" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="Matt-React" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Matt-Python" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
